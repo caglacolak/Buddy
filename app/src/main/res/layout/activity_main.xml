@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.asus.buddy.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/btn_register"
+            android:layout_width="155dp"
+            android:layout_height="60dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="199dp"
+            android:text="@string/register"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="115dp"
+            tools:layout_editor_absoluteY="236dp" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="159dp"
+            android:layout_height="62dp"
+            android:layout_above="@+id/btn_register"
+            android:layout_alignStart="@+id/btn_register"
+            android:layout_marginBottom="13dp"
+            android:text="@string/login"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="113dp"
+            tools:layout_editor_absoluteY="148dp" />
+
+    </RelativeLayout>
+
+
+</android.support.constraint.ConstraintLayout>

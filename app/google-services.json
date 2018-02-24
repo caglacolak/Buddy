@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "69983638457",
+    "firebase_url": "https://kanka-9eb35.firebaseio.com",
+    "project_id": "kanka-9eb35",
+    "storage_bucket": "kanka-9eb35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69983638457:android:e65e9bfea7c5443a",
+        "android_client_info": {
+          "package_name": "com.example.na.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69983638457-pf9a84njckbevpeg9q2lvajq528b1jgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjNccBZ4d_6hA2O9jGT8Qac9pL2Ec7iM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69983638457:android:c1757ea219d06a08",
+        "android_client_info": {
+          "package_name": "com.example.asus.buddy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69983638457-q86snte9au85ggg890uaeoiu2scmn5m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.asus.buddy",
+            "certificate_hash": "8871f473de561d575250ae86a46d4979657a4e4d"
+          }
+        },
+        {
+          "client_id": "69983638457-pf9a84njckbevpeg9q2lvajq528b1jgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjNccBZ4d_6hA2O9jGT8Qac9pL2Ec7iM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69983638457-ivedhqihjasjefoqiit1gorl9cr38vb2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "development.Kanka"
+              }
+            },
+            {
+              "client_id": "69983638457-pf9a84njckbevpeg9q2lvajq528b1jgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69983638457:android:76c8f38464cf1926",
+        "android_client_info": {
+          "package_name": "com.example.na.myapplication51"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69983638457-pf9a84njckbevpeg9q2lvajq528b1jgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkjNccBZ4d_6hA2O9jGT8Qac9pL2Ec7iM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
